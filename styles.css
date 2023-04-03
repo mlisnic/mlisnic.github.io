@@ -2,7 +2,7 @@
 
 /* CSS styles */
 html {
-    font-size: 13px;
+    font-size: 12px;
 }
 
 body {
@@ -26,19 +26,25 @@ body {
     }
 }
 
+.papertitle {
+    font-style: italic;
+    font-size: 18px
+}
+
 h1 {
-    font-weight: 550;
+    font-weight: 500;
     margin-top: 4rem;
     margin-bottom: 1.5rem;
-    font-size: 3.2rem;
+    font-size: 4.5rem;
     line-height: 1;
 }
 
 h2 {
-    font-weight: 550;
+    font-family: "minion-pro-condensed-display", serif;
+    font-weight: 500;
     margin-top: 2.1rem;
     margin-bottom: 1.4rem;
-    font-size: 2.2rem;
+    font-size: 3.5rem;
     line-height: 1;
 }
 
