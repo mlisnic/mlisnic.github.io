@@ -14,7 +14,7 @@ body {
     font-weight: 330;
     background-color: #f9f9f4;
     color: #0027ff;
-    max-width: 900px;
+    max-width: 1000px;
     counter-reset: sidenote-counter;
 }
 
