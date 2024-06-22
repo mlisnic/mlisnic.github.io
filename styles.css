@@ -59,3 +59,11 @@ a:link {
 a.about-link {
   border: none !important;
 }
+
+.about-links {
+  flex-direction: row !important;
+}
+
+.about-entity {
+  text-align: left !important;
+}
