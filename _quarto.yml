@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Max Lisnic"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    header-includes: |
+      <link rel="stylesheet" href="https://use.typekit.net/ywh1hax.css">

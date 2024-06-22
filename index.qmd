@@ -1,0 +1,75 @@
+---
+title: "Hi, I'm Max!"
+about:
+  template: solana
+  image: img/headshot_24.png
+  links:
+    - icon: envelope
+      href: mailto:maxim.lisnic@utah.edu
+    - icon: twitter
+      href: https://x.com/maxlisnic
+    - icon: github
+      href: https://github.com/mlisnic/
+    - icon: linkedin
+      href: https://www.linkedin.com/in/mlisnic/
+    - text: "{{< iconify fa6-brands google-scholar >}}"
+      href: https://scholar.google.com/citations?user=lrUkD90AAAAJ&hl=en
+---
+
+My name is Maxim Lisnic and I am a Ph.D. student in Human-Centered
+Computing at the University of Utah's
+[Kahlert School of Computing](https://www.cs.utah.edu/). I
+am advised by [Marina Kogan](http://www.mkoganresearch.com/) and [Alexander Lex](https://www.alexander-lex.net/). This summer, I'm interning with [Tableau Research](https://www.tableau.com/research).
+
+I am broadly interested in _human-data interaction_ and _data visualization_. My research focuses on how people interpret, misinterpret, reframe, communicate with, and even spread misinformation with data and charts.
+
+You can access my CV [here](/files/lisnic_cv.pdf).
+
+## Peer-reviewed publications
+
+#### "Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations
+
+_Maxim Lisnic_, Alexander Lex, Marina Kogan \
+Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24) \
+Paper doi: [10.1145/3613904.3642448](https://doi.org/10.1145/3613904.3642448)
+
+#### Misleading Beyond Visual Tricks: How People _Actually_ Lie With Charts
+
+_Maxim Lisnic_, Cole Polychronis, Alexander Lex, Marina Kogan \
+Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23) \
+Paper doi: [10.1145/3544548.3580910](https://doi.org/10.1145/3544548.3580910)
+
+## Preprints
+
+#### Visualization Guardrails: Designing Interventions Against Cherry-Picking in Interactive Data Explorer
+
+_Maxim Lisnic_, Zach Cutler, Marina Kogan, Alexander Lex \
+Preprint doi: [10.31219/osf.io/4j9nr](https://doi.org/10.31219/osf.io/4j9nr)
+
+#### Here's what you need to know about my data: Exploring Expert Knowledge's Role in Data Analysis
+
+Haihan Lin, _Maxim Lisnic_, Derya Akbaba, Miriah Meyer, Alexander Lex \
+Preprint doi: [10.31219/osf.io/dn32z](https://doi.org/10.31219/osf.io/dn32z)
+
+## Presentations
+
+#### "Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations
+
+CHI Conference on Human Factors in Computing Systems, Hamburg, Germany (May 2024)
+
+#### Designing Insightful Data Visualizations
+
+MarketDial, Salt Lake City, UT (April 2024)
+
+#### Misleading Beyond Visual Tricks: How People _Actually_ Lie With Charts
+
+CHI Conference on Human Factors in Computing Systems, Hamburg, Germany (April 2023)
+
+## Teaching
+
+Teaching assistant & guest lecture for COMP5960: Applied Data Visualization (Fall 2023)
+
+Guest lecture for CS6630: Visualization for Data Science (Fall 2022)
+
+Teaching assistant & guest lecture for DS2500: Data Wrangling (Spring 2022)
+
