@@ -4,34 +4,20 @@
     "href": "index.html",
     "title": "Hi, I’m Max!",
     "section": "",
-    "text": "My name is Maxim Lisnic and I am a Ph.D. student in Human-Centered Computing at the University of Utah’s Kahlert School of Computing. I am advised by Marina Kogan and Alexander Lex. This summer, I’m interning with Tableau Research.\nI am broadly interested in human-data interaction and data visualization. My research focuses on how people interpret, misinterpret, reframe, communicate with, and even spread misinformation with data and charts.\nYou can access my CV here."
+    "text": "My name is Maxim Lisnic and I am a Ph.D. student in Human-Centered Computing at the University of Utah’s Kahlert School of Computing. I am advised by Marina Kogan and Alexander Lex. Last summer, I was fortunate to intern with Tableau Research.\nI am broadly interested in human-data interaction and data visualization. My research focuses on how people interpret and misinterpret, frame and reframe data and charts. My goal is to make charts and data portals more useful, understandable, and transparent.\nI am looking for academic & industry research positions starting Fall 2025—please reach out!. You can access my CV here."
   },
   {
     "objectID": "index.html#peer-reviewed-publications",
     "href": "index.html#peer-reviewed-publications",
     "title": "Hi, I’m Max!",
     "section": "Peer-reviewed publications",
-    "text": "Peer-reviewed publications\n\n“Yeah, this graph doesn’t show that”: Analysis of Online Engagement with Misleading Data Visualizations\nMaxim Lisnic, Alexander Lex, Marina Kogan\nProceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ’24)\nPaper doi: 10.1145/3613904.3642448\n\n\nMisleading Beyond Visual Tricks: How People Actually Lie With Charts\nMaxim Lisnic, Cole Polychronis, Alexander Lex, Marina Kogan\nProceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23)\nPaper doi: 10.1145/3544548.3580910"
+    "text": "Peer-reviewed publications\n\nPlume: Scaffolding Text Composition in Dashboards\nMaxim Lisnic, Vidya Setlur, Nicole Sultanum\n2025 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3706598.3713580 (to appear)\n\n\nVisualization Guardrails: Designing Interventions Against Cherry-Picking in Interactive Data Explorers\nMaxim Lisnic, Zach Cutler, Marina Kogan, Alexander Lex\n2025 CHI Conference on Human Factors in Computing Systems\nPreprint doi: 10.31219/osf.io/4j9nr\nPaper doi: 10.1145/3706598.3713385 (to appear)\n\n\n“Yeah, this graph doesn’t show that”: Analysis of Online Engagement with Misleading Data Visualizations\nMaxim Lisnic, Alexander Lex, Marina Kogan\n2024 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3613904.3642448\n\n\nMisleading Beyond Visual Tricks: How People Actually Lie With Charts\nMaxim Lisnic, Cole Polychronis, Alexander Lex, Marina Kogan\n2023 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3544548.3580910"
   },
   {
     "objectID": "index.html#preprints",
     "href": "index.html#preprints",
     "title": "Hi, I’m Max!",
     "section": "Preprints",
-    "text": "Preprints\n\nVisualization Guardrails: Designing Interventions Against Cherry-Picking in Interactive Data Explorer\nMaxim Lisnic, Zach Cutler, Marina Kogan, Alexander Lex\nPreprint doi: 10.31219/osf.io/4j9nr\n\n\nHere’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis\nHaihan Lin, Maxim Lisnic, Derya Akbaba, Miriah Meyer, Alexander Lex\nPreprint doi: 10.31219/osf.io/dn32z"
-  },
-  {
-    "objectID": "index.html#presentations",
-    "href": "index.html#presentations",
-    "title": "Hi, I’m Max!",
-    "section": "Presentations",
-    "text": "Presentations\n\n“Yeah, this graph doesn’t show that”: Analysis of Online Engagement with Misleading Data Visualizations\nCHI Conference on Human Factors in Computing Systems, Hamburg, Germany (May 2024)\n\n\nDesigning Insightful Data Visualizations\nMarketDial, Salt Lake City, UT (April 2024)\n\n\nMisleading Beyond Visual Tricks: How People Actually Lie With Charts\nCHI Conference on Human Factors in Computing Systems, Hamburg, Germany (April 2023)"
-  },
-  {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
-    "title": "Hi, I’m Max!",
-    "section": "Teaching",
-    "text": "Teaching\nTeaching assistant & guest lecture for COMP5960: Applied Data Visualization (Fall 2023)\nGuest lecture for CS6630: Visualization for Data Science (Fall 2022)\nTeaching assistant & guest lecture for DS2500: Data Wrangling (Spring 2022)"
+    "text": "Preprints\n\nHere’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis\nHaihan Lin, Maxim Lisnic, Derya Akbaba, Miriah Meyer, Alexander Lex\nPreprint doi: 10.31219/osf.io/dn32z"
   }
 ]

@@ -19,57 +19,46 @@ about:
 My name is Maxim Lisnic and I am a Ph.D. student in Human-Centered
 Computing at the University of Utah's
 [Kahlert School of Computing](https://www.cs.utah.edu/). I
-am advised by [Marina Kogan](http://www.mkoganresearch.com/) and [Alexander Lex](https://www.alexander-lex.net/). This summer, I'm interning with [Tableau Research](https://www.tableau.com/research).
+am advised by [Marina Kogan](http://www.mkoganresearch.com/) and [Alexander Lex](https://www.alexander-lex.net/). Last summer, I was fortunate to intern with [Tableau Research](https://www.tableau.com/research).
 
-I am broadly interested in _human-data interaction_ and _data visualization_. My research focuses on how people interpret, misinterpret, reframe, communicate with, and even spread misinformation with data and charts.
+I am broadly interested in _human-data interaction_ and _data visualization_. 
+My research focuses on how people interpret and misinterpret, frame and reframe data and charts. 
+My goal is to make charts and data portals more useful, understandable, and transparent.
 
+**I am looking for academic & industry research positions starting Fall 2025---please reach out!.**
 You can access my CV [here](/files/lisnic_cv.pdf).
 
 ## Peer-reviewed publications
 
+#### Plume: Scaffolding Text Composition in Dashboards
+
+_Maxim Lisnic_, Vidya Setlur, Nicole Sultanum \
+2025 CHI Conference on Human Factors in Computing Systems \
+Paper doi: [10.1145/3706598.3713580](https://doi.org/10.1145/3706598.3713580) _(to appear)_
+
+#### Visualization Guardrails: Designing Interventions Against Cherry-Picking in Interactive Data Explorers
+
+_Maxim Lisnic_, Zach Cutler, Marina Kogan, Alexander Lex \
+2025 CHI Conference on Human Factors in Computing Systems \
+Preprint doi: [10.31219/osf.io/4j9nr](https://doi.org/10.31219/osf.io/4j9nr) \
+Paper doi: [10.1145/3706598.3713385](https://doi.org/10.1145/3706598.3713385) _(to appear)_
+
 #### "Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations
 
 _Maxim Lisnic_, Alexander Lex, Marina Kogan \
-Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24) \
+2024 CHI Conference on Human Factors in Computing Systems \
 Paper doi: [10.1145/3613904.3642448](https://doi.org/10.1145/3613904.3642448)
 
 #### Misleading Beyond Visual Tricks: How People _Actually_ Lie With Charts
 
 _Maxim Lisnic_, Cole Polychronis, Alexander Lex, Marina Kogan \
-Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23) \
+2023 CHI Conference on Human Factors in Computing Systems \
 Paper doi: [10.1145/3544548.3580910](https://doi.org/10.1145/3544548.3580910)
 
 ## Preprints
-
-#### Visualization Guardrails: Designing Interventions Against Cherry-Picking in Interactive Data Explorer
-
-_Maxim Lisnic_, Zach Cutler, Marina Kogan, Alexander Lex \
-Preprint doi: [10.31219/osf.io/4j9nr](https://doi.org/10.31219/osf.io/4j9nr)
 
 #### Here's what you need to know about my data: Exploring Expert Knowledge's Role in Data Analysis
 
 Haihan Lin, _Maxim Lisnic_, Derya Akbaba, Miriah Meyer, Alexander Lex \
 Preprint doi: [10.31219/osf.io/dn32z](https://doi.org/10.31219/osf.io/dn32z)
-
-## Presentations
-
-#### "Yeah, this graph doesn't show that": Analysis of Online Engagement with Misleading Data Visualizations
-
-CHI Conference on Human Factors in Computing Systems, Hamburg, Germany (May 2024)
-
-#### Designing Insightful Data Visualizations
-
-MarketDial, Salt Lake City, UT (April 2024)
-
-#### Misleading Beyond Visual Tricks: How People _Actually_ Lie With Charts
-
-CHI Conference on Human Factors in Computing Systems, Hamburg, Germany (April 2023)
-
-## Teaching
-
-Teaching assistant & guest lecture for COMP5960: Applied Data Visualization (Fall 2023)
-
-Guest lecture for CS6630: Visualization for Data Science (Fall 2022)
-
-Teaching assistant & guest lecture for DS2500: Data Wrangling (Spring 2022)
 
