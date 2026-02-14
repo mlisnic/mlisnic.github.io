@@ -1,81 +1,232 @@
-/* css styles */
+/* Minimalist Space Grotesk Design */
+
+:root {
+  --bg-color: #ffffff;
+  --text-color: #1a1a1a;
+  --accent-color: #333333;
+  --link-color: #4da6ff;
+  /* Light blue */
+  --link-border-color: #4da6ff;
+  --hover-gradient: linear-gradient(45deg, #ff00cc, #3333ff, #00ccff);
+  --shadow-color: #000000;
+}
+
 body {
-  margin-left: auto;
-  margin-right: auto;
-  font-family: "Helvetica", sans-serif;
-  font-weight: 350;
-  font-size: 0.9rem;
-  background-color: #fcfcf6;
-  color: #484e52;
-  counter-reset: sidenote-counter;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: "Space Grotesk", sans-serif;
+  /* Primary font */
+  font-weight: 300;
+  /* Regular weight for Space Grotesk often looks better a bit lighter */
+  font-size: 1.1rem;
+  /* Slightly larger base size for readability */
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  text-align: left !important;
+  /* Force left alignment */
+}
+
+/* Typography Overrides */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  letter-spacing: -0.02em;
+  text-align: left !important;
 }
 
 h1 {
-  font-weight: 500;
+  font-size: 3rem;
   margin-top: 4rem;
-  font-style: oblique;
-  font-family: "Tenon", sans-serif;
-  margin-bottom: 1.5rem;
-  padding: 0;
-  font-size: 3.5rem;
-  line-height: 1;
-  background-color: #eee6e6;
-  display: table;
 }
 
 h2 {
-  font-style: oblique;
-  font-family: "Tenon", sans-serif;
-  font-size: 1.6rem;
-  padding: 0;
-  margin-top: 1rem;
-  background-color: #eee6e6;
-  display: table;
-  font-weight: 500;
-  line-height: 1;
+  font-size: 2rem;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
 }
 
-h3 {
-  font-style: italic;
-  font-weight: 450;
-  font-size: 1.2rem;
+/* Gradient Hover Effect for Headings */
+h1:hover,
+h2:hover,
+h3:hover,
+h4:hover {
+  background-image: var(--hover-gradient);
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: gradient-flow 2s linear infinite;
+  cursor: default;
 }
 
-h4 {
-  font-weight: 400;
-  font-size: 1.2rem;
+@keyframes gradient-flow {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
-a:link,
-a:visited {
-  color: inherit;
-}
-a:link {
+/* Links */
+a {
+  color: var(--link-color);
   text-decoration: none;
-  border-bottom: 1px dashed;
-}
-a:hover {
-  background-color: #eee6e665;
+  border-bottom: 1px solid var(--link-border-color);
+  transition: all 0.2s ease-in-out;
 }
 
-a.about-link {
-  border: none !important;
+/* Link Hover: Gradient Effect */
+a:hover {
+  background-image: var(--hover-gradient);
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-bottom-color: transparent;
+  /* Hide border or make it gradient too? Let's hide it for cleaner text effect */
+  animation: gradient-flow 2s linear infinite;
+}
+
+/* Specific Quarto/Pandoc structural overrides */
+.main-container {
+  max-width: 800px;
+  margin-left: 0 !important;
+  /* Force left alignment for container? Usually centered content is preferred even if text is left-aligned. Let's keep container centered but text left. */
+  margin-right: auto;
+  padding: 2rem;
+}
+
+/* Actually, user said "left-align all text". Usually main container is still centered on screen. I'll keep margin-left/right auto for container, but force text-align left on body/headings. */
+
+/* Profile/About Section styles */
+.about-entity {
+  text-align: left !important;
+  /* Force left align */
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start !important;
+}
+
+.about-image {
+  border-radius: 4px;
+  /* Slight rounding for sharp modern look */
+  margin-bottom: 1.5rem;
+  border: 0px solid #fff;
+  /* Define border for the shadow to offset from */
+  box-shadow: 0 0 0 var(--shadow-color);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transform: translate(0, 0);
+  width: 15rem;
+  /* Enforce size */
+  height: auto;
+}
+
+/* Jot Out Effect on Hover */
+.about-image:hover {
+  transform: translate(-4px, -4px);
+  box-shadow: 4px 4px 0 var(--shadow-color);
 }
 
 .about-links {
-  flex-direction: row !important;
+  display: flex;
+  justify-content: flex-start;
+  /* Left align links */
+  gap: 1rem;
+  margin-top: 1rem;
 }
 
-.about-entity {
-  text-align: left !important;
-  align-items: start !important;
+.about-link {
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  /* More padding for button-like feel */
+  border: 1px solid #000 !important;
+  /* solid black border by default? User said "no outline by default" */
+  border: none !important;
+  /* No outline by default */
+  background-color: transparent;
+  color: var(--text-color) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  transform: translate(0, 0);
+  box-shadow: 0 0 0 var(--shadow-color);
+  /* Reset standard link styles for these buttons */
+  text-decoration: none;
+  border-bottom: none !important;
 }
 
-@media screen and (min-width: 600px) {
-  body {
-    margin-top: 8vh;
+/* Icon Hover: Jot Out + Shadow */
+.about-link:hover {
+  background-color: #fff;
+  /* Ensure background is solid so shadow looks right behind/offset */
+  border: 1px solid #000;
+  /* Add border on hover to define the shape? User said "reveal a shadow". Usually needs a border or bg to distinguish. Let's add border on hover. */
+  transform: translate(-3px, -3px);
+  box-shadow: 3px 3px 0 var(--shadow-color);
+  color: #000 !important;
+  /* Override gradient text effect from generic 'a' */
+  background-image: none;
+  -webkit-text-fill-color: initial;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  animation: none;
+}
+
+/* Navbar adjustments */
+.navbar {
+  background-color: var(--bg-color) !important;
+  border-bottom: 1px solid #eee;
+}
+
+.navbar-brand {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+}
+
+/* Responsive adjustments */
+@media (max-width: 991px) {
+  h1 {
+    font-size: 2.2rem;
   }
-  .about-image {
-    margin-top: 13vh;
+
+  body {
+    font-size: 1rem;
+  }
+
+  .main-container {
+    padding: 1.5rem;
+  }
+
+  /* Force about links to be row on mobile and wrap if needed */
+  .quarto-about-solana .about-links {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    justify-content: flex-start !important;
+    /* keep left aligned */
+    gap: 0.5rem !important;
+  }
+
+  .quarto-about-solana .about-link {
+    width: auto !important;
+    display: inline-flex !important;
+    margin-right: 0.5rem !important;
+    font-size: 1.2rem !important;
+    /* Prevent icons from getting huge */
   }
 }
