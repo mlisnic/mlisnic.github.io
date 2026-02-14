@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Hi, I’m Max!",
     "section": "",
-    "text": "My name is Maxim Lisnic and I am an Assistant Professor of Computer Science at WPI.\nI received my Ph.D. student from the University of Utah’s Kahlert School of Computing where I was advised by Marina Kogan and Alexander Lex. During my graduate studies, I was fortunate to intern at Tableau Research and work with Nicole Sultanum and Vidya Setlur.\nI am broadly interested in human-data interaction and data visualization. My research focuses on how people interpret and misinterpret, frame and reframe data and charts. My goal is to make charts and data portals more useful, understandable, and transparent.\nYou can access my CV here."
+    "text": "My name is Maxim Lisnic and I am an Assistant Professor of Computer Science at WPI.\nI received my Ph.D. from the University of Utah’s Kahlert School of Computing where I was advised by Marina Kogan and Alexander Lex. During my graduate studies, I was fortunate to intern at Tableau Research and work with Nicole Sultanum and Vidya Setlur.\nI am broadly interested in human-data interaction and data visualization. My research focuses on how people interpret and misinterpret, frame and reframe data and charts. My goal is to make charts and data portals more useful, understandable, and transparent.\nYou can access my CV here."
+  },
+  {
+    "objectID": "index.html#blog-posts",
+    "href": "index.html#blog-posts",
+    "title": "Hi, I’m Max!",
+    "section": "Blog posts",
+    "text": "Blog posts\nCo-Authoring Dashboard Text with AI\nMay 29, 2025 with Nicole Sultanum\nHow People Actually Lie with Charts\nApril 17, 2023"
   },
   {
     "objectID": "index.html#select-publications",
     "href": "index.html#select-publications",
     "title": "Hi, I’m Max!",
     "section": "Select publications",
-    "text": "Select publications\n\nHere’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis\nHaihan Lin, Maxim Lisnic, Derya Akbaba, Miriah Meyer, Alexander Lex\n2025 IEEE Visualization Conference (forthcoming)\nHonorable Mention Award\nPreprint doi: 10.31219/osf.io/dn32z\n\n\nPlume: Scaffolding Text Composition in Dashboards\nMaxim Lisnic, Vidya Setlur, Nicole Sultanum\n2025 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3706598.3713580\n\n\nVisualization Guardrails: Designing Interventions Against Cherry-Picking in Interactive Data Explorers\nMaxim Lisnic, Zach Cutler, Marina Kogan, Alexander Lex\n2025 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3706598.3713385\n\n\n“Yeah, this graph doesn’t show that”: Analysis of Online Engagement with Misleading Data Visualizations\nMaxim Lisnic, Alexander Lex, Marina Kogan\n2024 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3613904.3642448\n\n\nMisleading Beyond Visual Tricks: How People Actually Lie With Charts\nMaxim Lisnic, Cole Polychronis, Alexander Lex, Marina Kogan\n2023 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3544548.3580910"
+    "text": "Select publications\n\nHere’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis\nHaihan Lin, Maxim Lisnic, Derya Akbaba, Miriah Meyer, Alexander Lex\n2025 IEEE Visualization Conference\nHonorable Mention Award\nPreprint doi: 10.31219/osf.io/dn32z\n\n\nPlume: Scaffolding Text Composition in Dashboards\nMaxim Lisnic, Vidya Setlur, Nicole Sultanum\n2025 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3706598.3713580\n\n\nVisualization Guardrails: Designing Interventions Against Cherry-Picking in Interactive Data Explorers\nMaxim Lisnic, Zach Cutler, Marina Kogan, Alexander Lex\n2025 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3706598.3713385\n\n\n“Yeah, this graph doesn’t show that”: Analysis of Online Engagement with Misleading Data Visualizations\nMaxim Lisnic, Alexander Lex, Marina Kogan\n2024 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3613904.3642448\n\n\nMisleading Beyond Visual Tricks: How People Actually Lie With Charts\nMaxim Lisnic, Cole Polychronis, Alexander Lex, Marina Kogan\n2023 CHI Conference on Human Factors in Computing Systems\nPaper doi: 10.1145/3544548.3580910"
   }
 ]

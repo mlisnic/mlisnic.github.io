@@ -18,7 +18,7 @@ about:
 
 My name is Maxim Lisnic and I am an Assistant Professor of Computer Science at [WPI](https://www.wpi.edu/academics/departments/computer-science).
 
-I received my Ph.D. student from the University of Utah's
+I received my Ph.D. from the University of Utah's
 [Kahlert School of Computing](https://www.cs.utah.edu/) where I was advised by [Marina Kogan](http://www.mkoganresearch.com/) and [Alexander Lex](https://www.alexander-lex.net/). During my graduate studies, I was fortunate to intern at [Tableau Research](https://www.tableau.com/research) and work with [Nicole Sultanum](https://www.tableau.com/research/people/nicole-sultanum) and [Vidya Setlur](https://www.tableau.com/research/people/vidya-setlur).
 
 I am broadly interested in _human-data interaction_ and _data visualization_. 
@@ -27,12 +27,20 @@ My goal is to make charts and data portals more useful, understandable, and tran
 
 You can access my CV [here](/files/lisnic_cv.pdf).
 
+## Blog posts
+
+[Co-Authoring Dashboard Text with AI](https://www.tableau.com/blog/tableau-research-coauthoring-dashboard-text-ai) \
+_May 29, 2025 with Nicole Sultanum_
+
+[How People Actually Lie with Charts](https://www.visdesignlab.net/blog/2023/04/17/misleading/) \
+April 17, 2023
+
 ## Select publications
 
 #### Here's what you need to know about my data: Exploring Expert Knowledge's Role in Data Analysis
 
 Haihan Lin, _Maxim Lisnic_, Derya Akbaba, Miriah Meyer, Alexander Lex \
-2025 IEEE Visualization Conference _(forthcoming)_ \
+2025 IEEE Visualization Conference \
 _Honorable Mention Award_ \
 Preprint doi: [10.31219/osf.io/dn32z](https://doi.org/10.31219/osf.io/dn32z)
 
