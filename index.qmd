@@ -5,7 +5,7 @@ about:
   image: img/headshot_24.png
   links:
     - icon: envelope
-      href: mailto:mlisnic@wpi.edu
+      href: mailto:mlisnic@icloud.edu
     - icon: twitter
       href: https://x.com/maxlisnic
     - icon: github
@@ -16,16 +16,15 @@ about:
       href: https://scholar.google.com/citations?user=lrUkD90AAAAJ&hl=en
 ---
 
-My name is Maxim Lisnic and I am an Assistant Professor of Computer Science at [WPI](https://www.wpi.edu/academics/departments/computer-science).
+My name is Maxim Lisnic and this page serves as an archive of my academic work.
 
+Previously, I was an Assistant Professor of Computer Science at [WPI](https://www.wpi.edu/academics/departments/computer-science).
 I received my Ph.D. from the University of Utah's
 [Kahlert School of Computing](https://www.cs.utah.edu/) where I was advised by [Marina Kogan](http://www.mkoganresearch.com/) and [Alexander Lex](https://www.alexander-lex.net/). During my graduate studies, I was fortunate to intern at [Tableau Research](https://www.tableau.com/research) and work with [Nicole Sultanum](https://www.tableau.com/research/people/nicole-sultanum) and [Vidya Setlur](https://www.tableau.com/research/people/vidya-setlur).
 
-I am broadly interested in _human-data interaction_ and _data visualization_. 
-My research focuses on how people interpret and misinterpret, frame and reframe data and charts. 
-My goal is to make charts and data portals more useful, understandable, and transparent.
+My research was broadly focused on  _human-data interaction_ and _data visualization_---specifically on how people interpret and misinterpret, frame and reframe data and charts, with the goal of making charts and data portals more useful, understandable, and transparent.
 
-You can access my CV [here](/files/lisnic_cv.pdf).
+You can access my (outdated) CV [here](/files/lisnic_cv.pdf).
 
 ## Blog posts
 
